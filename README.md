@@ -28,8 +28,8 @@ Now You have 4(or 5) things at total.
 After gaining all these files and Info, Go to extension settings and fill up the informations.
 For the file: First rename it to mykey.p12 You need to find the vscode instillation directory and paste the file inside the extension's folder. 
 
-In **windows** it is located in : C:/users/yourUserName/.vscode/extensions/rubenkhare.googlesheet..... <br />
-In **WSL** it is in: /home/yourUserName/.vscode-server/extension/....
+In **windows** it is located in : `C:/users/yourUserName/.vscode/extensions/rubenkharel.googlesheet.....` <br />
+In **WSL** it is in: `/home/yourUserName/.vscode-server/extension/rubenkharel.googlesheet......`
 
 I guess you you are good to go form here... 
 
