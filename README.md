@@ -13,10 +13,11 @@ The extension reads the information and sends it to your Google Sheet.
 ## Requirements
 INSTRUCTIONS WILL BE UPDATED WITH GIFs AND VIDEOS TO MAKE IT CLEAR. 
 
-Step 1. Create Google Service Account
-Step 2. Get Google service's email, apiKey, and .p12 file.
-Step 3. Create a Google Sheet document
-Step 4. Extract the google sheet document's ID
+**Steps**:
+1. Create Google Service Account
+2. Get Google service's email, apiKey, and .p12 file.
+3. Create a Google Sheet document
+4. Extract the google sheet document's ID
 
 Now You have 4(or 5) things at total.
 1. Google Service Email
@@ -27,8 +28,8 @@ Now You have 4(or 5) things at total.
 After gaining all these files and Info, Go to extension settings and fill up the informations.
 For the file: First rename it to mykey.p12 You need to find the vscode instillation directory and paste the file inside the extension's folder. 
 
-In windows it is located in : C:/users/yourUserName/.vscode/extensions/rubenkhare.googlesheet..... <br />
-In WSL it is in: /home/yourUserName/.vscode-server/extension/....
+In **windows** it is located in : C:/users/yourUserName/.vscode/extensions/rubenkhare.googlesheet..... <br />
+In **WSL** it is in: /home/yourUserName/.vscode-server/extension/....
 
 I guess you you are good to go form here... 
 
