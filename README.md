@@ -5,8 +5,11 @@
 [Extension Download Link](https://marketplace.visualstudio.com/items?itemName=rubenkharel.googlesheetlogger) <br  />
 
 GoogleSheetLogger was built for one and only purpose of doing [github's README automation](https://github.com/rubenkharel/README-VSCODE-Automation). It extracts your workspace information and which is later used by Github to display the data in Github README. You can see the demo below.
+<br />
 *[![FileName!](https://raster.shields.io/badge/Currently_Editing--green?style=for-the-badge)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-main.py-yellow?style=for-the-badge&color=white&logoColor=green&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-Folder_name-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+<br />
 *[![FileName!](https://raster.shields.io/badge/Seen_20_Min_Ago_Editing--red?style=for-the-badge)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-main.py-yellow?style=for-the-badge&color=white&logoColor=red&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-Folder_name-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
+<br />
 *[![FileName!](https://raster.shields.io/badge/IDLE--orange?style=for-the-badge)](https://github.com/rubenkharel)[![FileName!](https://raster.shields.io/badge/-No_file_Opened-yellow?style=for-the-badge&logoColor=orange&color=white&logo=canonical)](https://github.com/rubenkharel)[![WorkSpace!](https://raster.shields.io/badge/VScode-IDLE-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/rubenkharel)*
 
 
