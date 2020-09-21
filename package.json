@@ -2,7 +2,7 @@
   "name": "googlesheetlogger",
   "displayName": "GoogleSheetLogger",
   "description": "It logs specefic data to the google sheets, in our case for now, it only logs the file name a person is working on and a folder.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "rubenkharel",
   "engines": {
     "vscode": "^1.49.0"
